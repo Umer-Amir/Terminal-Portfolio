@@ -6,4 +6,5 @@ A terminal-based portfolio built with React and Tailwind CSS.
 
 <img src="./public/ME small.png" width="200" height="200" />
 
-![Alt text](./public/ME small.png)
+![~Umer Amir](/public/ME.png)
+
