@@ -1,0 +1,65 @@
+{
+  "help": [
+    {
+      "label": "about",
+      "content": "Learn more about me."
+    },
+    {
+      "label": "skills",
+      "content": "I guess, I am good at certain things."
+    },
+    {
+      "label": "projects",
+      "content": "Check out the cool stuff I've made."
+    },
+    {
+      "label": "contact",
+      "content": "Reach out if I catch your interest."
+    },
+    {
+      "label": "resume",
+      "content": "Checkout my Resume."
+    },
+    {
+      "label": "clear",
+      "content": "Clear the terminal."
+    }
+  ],
+  "contact": [
+    {
+      "label": "Github",
+      "content": "Here you can find all my projects and contributions.",
+      "link": "https://github.com/Umer-Amir"
+    },
+    {
+      "label": "LinkedIn",
+      "content": "Here you can find my professional profile.",
+      "link": "https://www.linkedin.com/in/Umer-Amir"
+    }
+  ],
+  "skills": [
+    {
+      "label": "Languages",
+      "content": "C, Java, Python, JavaScript"
+    },
+    {
+      "label": "Front-End",
+      "content": "HTML, CSS, Bootstrap, React"
+    },
+    {
+      "label": "Back-End",
+      "content": "RestAPI, SQL, NodeJS, ExpressJS, MongoDB"
+    },
+    {
+      "label": "Music",
+      "content": "FL Studio, Ableton Live, Audacity, Caustic 3"
+    }
+  ],
+  "projects": [
+    {
+      "label": "{Play with Sand}",
+      "content": "JS used to create a sand effect on the screen with some added functionality.",
+      "link": "https://github.com/Umer-Amir/Play-With-Sand"
+    }
+  ]
+}
