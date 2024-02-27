@@ -1,4 +1,5 @@
-# Terminal Portfolio
+# Terminal Portfolio (Work in Progress)
+## Non-working web app currently
 
 A terminal-based portfolio built with React and Tailwind CSS.
 
