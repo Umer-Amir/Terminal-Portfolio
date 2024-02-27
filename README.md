@@ -6,4 +6,4 @@ A terminal-based portfolio built with React and Tailwind CSS.
 
 <img src="./public/ME small.png" width="200" height="200" />
 
-![Alt text](ME.png)
+![Alt text](./public/ME small.png)
